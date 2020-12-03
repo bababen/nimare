@@ -1,0 +1,60 @@
+{
+    "StudyName": {
+        "contrasts": {
+            "ExperimentName": {
+                "coords": {
+                    "space": "MNI",
+                    "x": [
+                        -16.0,
+                        26.0,
+                        12.0,
+                        -10.0
+                    ],
+                    "y": [
+                        -58.0,
+                        -64.0,
+                        -70.0,
+                        12.0
+                    ],
+                    "z": [
+                        -22.0,
+                        -50.0,
+                        -42.0,
+                        50.0
+                    ]
+                },
+                "metadata": {
+                    "sample_sizes": [
+                        50
+                    ]
+                }
+            }
+        }
+    },
+    "StudyName2": {
+        "contrasts": {
+            "ExperimentName": {
+                "coords": {
+                    "space": "MNI",
+                    "x": [
+                        -9.0,
+                        -15.0
+                    ],
+                    "y": [
+                        -72.0,
+                        9.0
+                    ],
+                    "z": [
+                        57.0,
+                        -3.0
+                    ]
+                },
+                "metadata": {
+                    "sample_sizes": [
+                        46
+                    ]
+                }
+            }
+        }
+    }
+}
